@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x628dD8C57579C8B856941e1aD2c952019409C61b",
+  "SCAN_LINK": "https://polygonscan.com/address/0x628dD8C57579C8B856941e1aD2c952019409C61b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Dauntless Ducks",
+  "SYMBOL": "DDNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "HOME",
+  "MARKETPLACE_LINK": "https://dauntlessducks.com",
+  "SHOW_BACKGROUND": true
+}
